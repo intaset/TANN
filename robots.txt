@@ -1,0 +1,3 @@
+Sitemap: http://www.tannconference.com/sitemap.xml
+
+User-agent: *
