@@ -198,7 +198,9 @@ mail($your_email,$your_subject,$message,$your_headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div>
+</div><br>
+      <p class="body" style="text-align: center!important;">For more information about the TANN'17 Conference, please view the <b><a href="../TANN17_CFP.pdf" class="body-link">conference flyer</a></b>.</p>
+      
         </div>
     </div>
 
@@ -224,7 +226,10 @@ mail($your_email,$your_subject,$message,$your_headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div>
+</div><br>
+
+      <p class="body" style="text-align: center!important; color: #FFF!important;">For more information about the TANN'17 Conference, please view the <b><a href="../TANN17_CFP.pdf" class="body-link">conference flyer</a></b>.</p>
+
         </div>
         </div> 
       </div>
@@ -240,9 +245,6 @@ mail($your_email,$your_subject,$message,$your_headers);
       <h2 class="title">1</h2>
       <p class="bold">TANN 2017:</p>
       <p class="body">TANN 2017 will  be held in Toronto, Canada on August 24 - 25, 2017.</p>
-
-       <p class="bold">Call For Papers:</p>
-      <p class="body">For more information about the TANN'17 Conference, please view the <a href="http://tannconference.com/Toronto_CFP_TANN.pdf" class="body-link">flyer</a>.</p>
     </div>          
     <div>
       <h2 class="title">2</h2>
