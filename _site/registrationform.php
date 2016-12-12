@@ -185,7 +185,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
         <div class="bg">
           <h1>International Conference on Theoretical and<br>Applied Nanoscience and Nanotechnology (TANN'17)</h1>
-          <p class="subhead">August 24 - 25, 2017 | Toronto, Canada</p>
+          <p class="subhead">August 23 - 25, 2017 | Toronto, Canada</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -213,7 +213,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
         <div class="bg">
           <h1>International Conference on Theoretical and<br>Applied Nanoscience and Nanotechnology (TANN'17)</h1>
-          <p class="subhead">August 24 - 25, 2017 | Toronto, Canada</p>
+          <p class="subhead">August 23 - 25, 2017 | Toronto, Canada</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -244,7 +244,7 @@ mail($your_email,$your_subject,$message,$your_headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">TANN 2017:</p>
-      <p class="body">TANN 2017 will  be held in Toronto, Canada on August 24 - 25, 2017.</p>
+      <p class="body">TANN 2017 will  be held in Toronto, Canada on August 23 - 25, 2017.</p>
     </div>          
     <div>
       <h2 class="title">2</h2>
