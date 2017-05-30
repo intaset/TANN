@@ -930,21 +930,6 @@ input[type="reset"]:hover, input[type="submit"]:hover {
 	padding-top: 1em;
 }
 
-/* Contact Us */
-.contact tr {
-	border-bottom: 0;
-}
-
-button, input, select, textarea {
-  font-family: inherit;
-  font-size: 100%;
-  margin: 0;
-  width: 100%;
-}
-
-input[type="image"] {
-  width: inherit;
-}
 
 /* 213 PX / LG OPTIMUS ONE */
 @media only screen and (min-width: 13em) {
@@ -1447,4 +1432,38 @@ footer form {
 	.cbp-af-header nav a {
   font-size: 1em!important;
 }
+}
+/*Contact us */
+.half {
+  float: left;
+  width: 48%;
+  margin-bottom: 1em;
+}
+
+.right { width: 50%; }
+
+.left {
+     margin-right: 2%; 
+}
+
+.full { width: 100%; }
+
+@media (max-width: 600px) {
+  .half {
+     width: 100%; 
+     float: none;
+     margin-bottom: 0; 
+  }
+}
+
+
+/* Clearfix */
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
 }
