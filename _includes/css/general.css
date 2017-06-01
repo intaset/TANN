@@ -930,6 +930,21 @@ input[type="reset"]:hover, input[type="submit"]:hover {
 	padding-top: 1em;
 }
 
+/* Contact Us */
+.contact tr {
+	border-bottom: 0;
+}
+
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: 100%;
+  margin: 0;
+  width: 100%;
+}
+
+input[type="image"] {
+  width: inherit;
+}
 
 /* 213 PX / LG OPTIMUS ONE */
 @media only screen and (min-width: 13em) {
