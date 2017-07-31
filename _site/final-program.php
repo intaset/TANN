@@ -240,27 +240,27 @@
                   </td>
                 </tr>
                 <tr class="break">
-                  <td class="time"><h6>10:55 AM - 11:25 AM</h6></td>      
+                  <td class="time"><h6>10:55 AM - 11:15 AM</h6></td>      
                   <td><h6>Coffee Break</h6></td>
                 </tr>
                 <tr>
-                  <td class="time"><h6>10:55 AM - 11:25 AM</h6></td>      
+                  <td class="time"><h6>10:55 AM - 11:15 AM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Poster Session">Poster Session</a></h4>
                   </td>
                 </tr>
                  <tr>
-                  <td class="time"><h6>11:25 AM - 12:15 PM</h6></td>      
+                  <td class="time"><h6>11:15 AM - 12:05 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Nanomaterials, Nanodevices: Fabrication, Characterization and Application I">Nanomaterials, Nanodevices: Fabrication, Characterization and Application I</a></h4>
                   </td>
                 </tr>
                 <tr class="break">
-                  <td class="time"><h6>12:15 PM - 1:15 PM</h6></td>      
+                  <td class="time"><h6>12:05 PM - 1:05 PM</h6></td>      
                   <td><h6>Lunch</h6></td>
                 </tr>
                  <tr>
-                  <td class="time"><h6>1:05 PM - 3:15 PM</h6></td>      
+                  <td class="time"><h6>1:05 PM - 3:05 PM</h6></td>      
                   <td><span class="section-legend"><small>Workshop</small></span>
                       <h4><a href="#Development of Hetero-nanostructures for Advanced Biomedical Applications">Development of Hetero-nanostructures for Advanced Biomedical Applications</a></h4>
                   </td>
@@ -309,7 +309,7 @@
 <a id="Poster Session"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">10:55 AM - 11:25 AM</h6>
+<h6 class="info">10:55 AM - 11:15 AM</h6>
 <h3 class="title">Poster Session<br>
 <small>Session Chair: Dr. Naomi Matsuura, University of Toronto, Canada</small></h3>
 <br>
@@ -403,7 +403,7 @@
 <a id="Nanomaterials, Nanodevices: Fabrication, Characterization and Application I"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">11:25 AM - 12:15 PM</h6>
+<h6 class="info">11:15 AM - 12:05 PM</h6>
 <h3 class="title">Nanomaterials, Nanodevices: Fabrication, Characterization and Application I<br>
 <small>Session Chair: Dr. Robert Wolkow, University of Alberta, Canada</small></h3>
 <br>
@@ -424,7 +424,7 @@
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>11:25 - 11:35</dd>
+          <dd>11:15 - 11:25</dd>
           <dt>Authors</dt>
           <dd>Ali Nemati, Waseem Haider, S. Ghanbarnezhad, Zia Ur Rahman, Syed Nabeel Ahmed</dd>
            <dt>Abstract</dt>
@@ -450,7 +450,7 @@
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>11:35 - 11:55</dd>
+          <dd>11:25 - 11:45</dd>
           <dt>Authors</dt>
           <dd>Songlin Yang, Jin Zhang</dd>
            <dt>Abstract</dt>
@@ -475,7 +475,7 @@
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>11:55 - 12:15</dd>
+          <dd>11:45 - 12:05</dd>
           <dt>Authors</dt>
           <dd>Jan Smotlacha, Richard Pincak</dd>
            <dt>Abstract</dt>
@@ -499,7 +499,7 @@
 <a id="Development of Hetero-nanostructures for Advanced Biomedical Applications"></a>
 <div class="section">
 <p class="legend">Workshop</p>
-<h6 class="info">1:15 PM - 3:15 PM</h6>
+<h6 class="info">1:05 PM - 3:05 PM</h6>
 <h3 class="title">Development of Hetero-nanostructures for Advanced Biomedical Applications<br>
 <small><a href="http://eng.uwo.ca/chemical/faculty/zhang_j/" target="_blank">Dr. Jin Zhang, University of Western Ontario, Canada</a></small></h3>
 <br>
