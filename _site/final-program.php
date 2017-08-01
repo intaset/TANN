@@ -442,7 +442,7 @@
     <div class="panel-heading" role="tab" id="heading121">
       <h4 class="panel-title">
         <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse121" aria-expanded="false" aria-controls="collapse121">Deposited BSA/IgG Conjugated Up-Conversion Nanoparticles by the Matrix-Assisted Pulsed Laser Evaporation (MAPLE)<br></a>
-          <small>Dr. Jin Zhang, University of Western Ontario, Canada</small>
+          <small>Songlin Yang, University of Western Ontario, Canada</small>
       </h4>
     </div>
 
@@ -553,7 +553,7 @@
                   <td colspan="3"><h6>Coffee Break</h6></td>
                 </tr>
                 <tr>
-                  <td class="time"><h6>11:00 AM - 12:00 AM</h6></td>      
+                  <td class="time"><h6>11:00 AM - 11:50 AM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Nanomaterials, Nanodevices: Fabrication, Characterization and Application II">Nanomaterials, Nanodevices: Fabrication, Characterization and Application II</a></h4>
                   </td>
@@ -621,7 +621,7 @@
 <a id="Nanomaterials, Nanodevices: Fabrication, Characterization and Application II"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">11:00 AM - 12:00 PM</h6>
+<h6 class="info">11:00 AM - 11:50 PM</h6>
 <h3 class="title">Nanomaterials, Nanodevices: Fabrication, Characterization and Application II<br>
 <small>Session Chair: Dr. Simone Pisana, York University, Canada</small></h3>
 <br>
@@ -680,7 +680,9 @@
 </div> <!-- Individual Paper Ends-->
 
 
-<div class="panel panel-default"><!-- Individual Paper Starts-->
+
+<!-- Individual Paper Starts-->
+<!-- <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="heading119">
       <h4 class="panel-title">
         <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse119" aria-expanded="false" aria-controls="collapse119">The Effects of Electrical Stimulation Mediated by Conductive Polymer on Hypothalamic Neurons as a Potential Model of Schizophrenia<br></a>
@@ -698,7 +700,7 @@
         </dl>
       </div>
     </div>
-</div> <!-- Individual Paper Ends-->
+</div>  --><!-- Individual Paper Ends-->
 
 
 
@@ -714,7 +716,7 @@
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>11:50 - 12:00</dd>
+          <dd>11:40 - 11:50</dd>
           <dt>Authors</dt>
           <dd>Salma M. Z. Al Kindy, Mouza Al Ruqaishy, Faisal Al Marzouqi, Rengaraj Selvaraj</dd>
         </dl>
