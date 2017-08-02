@@ -405,7 +405,7 @@
 <p class="legend">Session</p>
 <h6 class="info">11:15 AM - 12:05 PM</h6>
 <h3 class="title">Nanomaterials, Nanodevices: Fabrication, Characterization and Application I<br>
-<small>Session Chair: Dr. Robert Wolkow, University of Alberta, Canada</small></h3>
+<small>Session Chair: TBA</small></h3>
 <br>
 
 
