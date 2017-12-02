@@ -1366,7 +1366,9 @@ h2 {
   border-right: 1px solid #4FC3C5;
     font-weight: 500;
 }
-
+s{
+	font-weight:normal;
+}
 .imp-date {
   padding: 0.5em;
 }
