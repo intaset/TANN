@@ -1,114 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+<!-- www.check-domains.com sitemap generator -->
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-   <url>
-
-      <loc>http://www.tannconference.com/index.html</loc>
-
-      <lastmod>2017-08-31</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-  <url>
-
-      <loc>http://www.tannconference.com/papers.html</loc>
-
-      <lastmod>2017-08-31</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.tannconference.com/program.html</loc>
-
-      <lastmod>2017-08-31</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.tannconference.com/dates.html</loc>
-
-      <lastmod>2017-08-31</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.tannconference.com/registration.html</loc>
-
-      <lastmod>2017-08-31</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.tannconference.com/committee.html</loc>
-
-      <lastmod>2017-08-31</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.tannconference.com/keynote.html</loc>
-
-      <lastmod>2017-08-31</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.tannconference.com/sponsor.html</loc>
-
-      <lastmod>2017-08-31</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.tannconference.com/venue.html</loc>
-
-      <lastmod>2017-08-31</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.tannconference.com/accommodation.html</loc>
-
-      <lastmod>2017-08-31</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.tannconference.com/symposium.html</loc>
-
-      <lastmod>2017-08-31</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
+<url>
+   <loc>http://2019.tannconference.com/</loc>
+   <lastmod>2018-02-12T20:54:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/past-events/</loc>
+   <lastmod>2018-02-12T20:54:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/TANN19_CFP.pdf</loc>
+   <lastmod>2018-03-05T15:51:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/papers/</loc>
+   <lastmod>2018-02-12T20:54:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/program/</loc>
+   <lastmod>2018-02-12T20:54:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/dates/</loc>
+   <lastmod>2018-02-12T20:54:21+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/registration/</loc>
+   <lastmod>2018-02-12T20:54:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/committee/</loc>
+   <lastmod>2018-02-12T20:54:21+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/keynote/</loc>
+   <lastmod>2018-02-12T20:54:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/venue/</loc>
+   <lastmod>2018-02-12T20:54:23+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/accommodation/</loc>
+   <lastmod>2018-02-12T20:54:21+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/sponsor/</loc>
+   <lastmod>2018-02-12T20:54:23+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/symposium/</loc>
+   <lastmod>2018-02-12T20:54:23+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/terms/</loc>
+   <lastmod>2018-02-12T20:54:23+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/sitemap/</loc>
+   <lastmod>2018-02-12T20:54:23+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/TANN19_Paper_Template.docx</loc>
+   <lastmod>2018-03-05T15:51:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/TANN19_Extended_Abstract.docx</loc>
+   <lastmod>2018-03-05T15:51:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/TANN19_CopyrightForm.pdf</loc>
+   <lastmod>2018-03-05T15:51:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/banktobank/</loc>
+   <lastmod>2018-02-12T20:54:21+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/moneyorder/</loc>
+   <lastmod>2018-02-12T20:54:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.tannconference.com/paypal/</loc>
+   <lastmod>2018-02-12T20:54:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
 </urlset>
